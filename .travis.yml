@@ -1,1 +1,1 @@
-script: ./themis.sh
+script: sh ./themis.sh
